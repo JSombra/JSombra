@@ -27,8 +27,6 @@
 
 - 🌱 Estudando JavaScript, NodeJS, React Native e TypeScript
  
-- 🟦 www.linkedin.com/in/jefferson-sombra
- 
 - 💻 Conhecimento em MySQL, Linux, GIT, Python, CSS3, JavaScript
 
 - 🔎 Metas Para 2022 - AWS, NodeJS, LPI Linux Essentials, Flutter
