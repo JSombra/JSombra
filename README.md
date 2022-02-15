@@ -12,6 +12,11 @@
 
 </a>
 
+<img src="https://github-readme-stats.vercel.app/api?username=JSombra&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JSombra&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+
+
 
 - 📔 Estudante de Ciências da Computação do 8°Semestre - UNIP
 
