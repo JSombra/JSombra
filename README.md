@@ -25,7 +25,7 @@
 
 - 📔 Estudante de Ciências da Computação do 8°Semestre - UNIP
 
-- 🌱 Estudando JavaScript, NodeJS, React Native e TypeScript
+- 🌱 Estudando JavaScript, NodeJS, JestJS, React Native e TypeScript
  
 - 💻 Conhecimento em MySQL, Linux, GIT, Python, CSS3, JavaScript
 
