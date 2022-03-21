@@ -25,8 +25,8 @@
 
 - 📔 Estudante de Ciências da Computação do 8°Semestre - UNIP
 
-- 🌱 Estudando JavaScript, NodeJS, JestJS, Python, PostgreeSQL, MongoDB, React Native e TypeScript
+- 🌱 Estudando Java, JUnit, Spring, AWS. MongoDB.
  
-- 💻 Conhecimento em MySQL, Linux, GIT, Python, CSS3, JavaScript
+- 💻 Conhecimento em Java, MySQL, Linux, GIT, Python, CSS3, JavaScript
 
-- 🔎 Metas Para 2022 - AWS, NodeJS, LPI Linux Essentials, Flutter
+- 🔎 Metas Para 2022 - AWS, JUnit, LPI Linux Essentials.
