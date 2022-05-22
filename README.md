@@ -25,8 +25,8 @@
 
 - 📔 Estudante de Ciências da Computação do 8°Semestre - UNIP
 
-- 🌱 Estudando Java, JUnit, Spring, AWS. MongoDB.
+- 🌱 Estudando Kotlin, Spring, AWS. MongoDB.
  
-- 💻 Conhecimento em Java, MySQL, Linux, GIT, Python, CSS3, JavaScript
+- 💻 Conhecimento em Kotlin, Java, MySQL, Linux, GIT, Python, CSS3, JavaScript.
 
-- 🔎 Metas Para 2022 - AWS, JUnit, LPI Linux Essentials.
+- 🔎 Metas Para 2022 - AWS, Kotlin para Android, LPI Linux Essentials.
