@@ -23,7 +23,7 @@
 
 
 
-- 📔 Estudante de Ciências da Computação do 8°Semestre - UNIP
+- 📔 Bacharel em Ciências da Computação pela universidade UNIP
 
 - 🌱 Estudando Kotlin, Spring, AWS. MongoDB.
  
