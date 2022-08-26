@@ -25,8 +25,8 @@
 
 - 📔 Bacharel em Ciências da Computação pela universidade UNIP
 
-- 🌱 Estudando Kotlin, Spring, AWS. MongoDB.
+- 🌱 Estudando Java, JUnit, Spring, AWS. MongoDB.
  
-- 💻 Conhecimento em Kotlin, Java, MySQL, Linux, GIT, Python, CSS3, JavaScript.
+- 💻 Conhecimento em Java, Kotlin, MySQL, Linux, GIT, Python, CSS3, JavaScript.
 
 - 🔎 Metas Para 2022 - AWS, Kotlin para Android, LPI Linux Essentials.
