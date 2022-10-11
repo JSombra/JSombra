@@ -29,4 +29,4 @@
  
 - 💻 Conhecimento em Java, Kotlin, MySQL, Linux, GIT, Python, CSS3, JavaScript.
 
-- 🔎 Metas Para 2022 - AWS, Kotlin para Android, LPI Linux Essentials.
+- 🔎 Metas Para 2022 - AWS, JUnit, Spring.
