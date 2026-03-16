@@ -55,7 +55,7 @@ Data Analysis     ██████████░░░░░   Python · Pand
 - 🐍 **Python for automation** — Scripts for system tasks, data processing and reporting
 
 ---
-
+<!--
 ## 🚀 Featured Projects
 
 ### 🔧 [System Automation Toolkit](#)
@@ -67,7 +67,7 @@ Data Analysis     ██████████░░░░░   Python · Pand
 `Python` `Pandas` `MySQL`
 
 > 💡 *Repositórios públicos chegando em breve.*
-
+-->
 ---
 
 ## 🌐 Languages
