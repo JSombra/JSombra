@@ -68,7 +68,6 @@ Data Analysis     ██████████░░░░░   Python · Pand
 
 > 💡 *Repositórios públicos chegando em breve.*
 -->
----
 
 ## 🌐 Languages
 
